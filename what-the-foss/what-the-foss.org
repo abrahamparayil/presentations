@@ -1,0 +1,121 @@
+#+TITLE: What the FOSS!
+#+AUTHOR: Abraham Raji
+#+EMAIL: avronr@tuta.io
+#+DATE: October 2, 2020
+#+DESCRIPTION: FOSS as of 2020
+#+KEYWORDS: foss
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:nil ^:{} toc:nil
+#+LaTeX_CLASS_OPTIONS: [presentation]
+#+BEAMER_THEME: Luebeck
+#+EXCLUDE_TAGS: noexport
+#+PROPERTY:  header-args :eval no
+#+REVEAL_THEME: league
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND: #1a1626
+#+REVEAL_TITLE_SLIDE_BACKGROUND: #1a1626
+* Introduction
+** Hello :)
+- My name is [[https://abrahamraji.in][Abraham Raji]]
+- I'm known online as [[mailto:avronr@tuta.io][avronr]].
+- Software pays my bills.
+- Web. Cloud. Servers.
+- I am a man with a certain level of appreciation for old things.
+*** Ground Rules
+- Feel free to interupt me.
+  They call it seeking knowledge for a reason.
+- No doubts are stupid. People who think otherwise are stupid.
+- Regardless of whether you agree with me or disagree with me it is important you understand me.
+* Birth
+** But does FOSS make sense?
+*** Something you own
+:PROPERTIES:
+:BEAMER_col: 0.6
+:BEAMER_env: example
+:END:
+#+ATTR_LATEX: width=\textwidth
+[[file://home/avronr/Code/presentations/what-the-foss/dodge.jpg]]
+** But does FOSS make sense?
+*** Under the Hood
+:PROPERTIES:
+:BEAMER_col: 0.6
+:BEAMER_env: example
+:END:
+#+ATTR_LATEX: width=\textwidth
+[[file://home/avronr/Code/presentations/what-the-foss/dodge-inside.jpg]]
+** But does FOSS make sense?
+*** Control
+   #+begin_quote
+If the users don't control the program, the program controls the users. With proprietary software, there is always some entity, the "owner" of the program, that controls the program—and through it, exercises power over its users. A nonfree program is a yoke, an instrument of unjust power.
+
+   --- Richard Mathew Stallman [[https://www.gnu.org/philosophy/free-software-even-more-important.html][Free Software Is Even More Important Now (September 2013)]]
+   #+end_quote
+    \hfill \(\qed\)
+** MIT AI Lab
+*** The Printer :B_column:
+:PROPERTIES:
+:BEAMER_col: 0.6
+:END:
+- 1970s
+- Personal Computers didn't exist.
+- Programming is some people just at the universities knew.
+- They took care of their own needs.
+- They led by Richard M. Stallman started the Free Software Foundation
+*** Richard Mathew Stallman :B_column:
+:PROPERTIES:
+:BEAMER_col: 0.4
+:END:
+[[file://home/avronr/Code/presentations/what-the-foss/stallman.jpg]]
+Richard Mathew Stallman
+** Definition
+Free and Open source software is any piece of software that gives it's users the four essential freedoms.
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).
+- Access to the source code is a precondition for this. The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+** Free Software succeeded because
+- Users would rather have software that they were able to fix themselves
+- Users would rather use software that they can trust
+- Developers now received suggestions and help from skilled users so their work was easier
+- With more people looking into the software bugs were found and resolved faster.
+** GNU GPL and the birth of Open Source
+*** Open Source
+:PROPERTIES:
+:BEAMER_col: 0.6
+:END:
+- The single document that determines whether a piece of software is free software or not is it's Licence.
+- GPL prevented Free Software from being used in proprietary software.
+*** Open Source
+:PROPERTIES:
+:BEAMER_col: 0.4
+:END:
+[[file://home/avronr/Code/presentations/what-the-foss/esr.jpg]]
+Eric S Raymond
+** Open Source vs Free Software
+[[file://home/avronr/Code/presentations/what-the-foss/ep000.jpg]]
+
+* Free Software in Real Life
+** Can a Company make money out of Free Software?
+- Short Answer: Yes
+- Real life examples: Redhat, Suse, Canonical, Gitlab and More
+- Most of the revenue for software companies comes from Corporates
+  - Corporates value reliability.
+
+[[file://home/avronr/Code/presentations/what-the-foss/comp.png]]
+** Can an individual make a living out of Free Software?
+- Short Answer: Yes.
+- You can work at the above mentioned companies.
+- You can provide support for free software.
+- You can work on or created projects supported by a community or corporate.
+* Free Software in India
+** Free Software Projects and Communities based in India.
+    - Free Software Community of India (FSCI) =fsci.in=
+    - Swathanthra Malayalam Computing =smc.org.in=
+    - Mozilla Kerala =mozillakerala.com=
+    - Leapcode =leapcode.io=
+    - Various Free Software and Linux User Groups
+    - Student Developers Society =studevsoc.in=
+** Questions
+*** Ask Away !
+** Get in touch with me
+- Gitlab: avron
+- Mail: avronr@tuta.io
