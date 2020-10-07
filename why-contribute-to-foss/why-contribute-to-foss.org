@@ -1,0 +1,84 @@
+#+TITLE: Why you should you contribute to FOSS?
+#+AUTHOR: \href{mailto:avronr@tuta.io}{Abraham Raji}
+#+EMAIL: avronr@tuta.io
+#+DATE: October 7, 2020
+#+DESCRIPTION: FOSS as of 2020
+#+KEYWORDS: foss
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:nil ^:{} toc:nil
+#+BEAMER_HEADER: \subtitle{Setta, resumeyil vekkan patumo?}}
+#+LaTeX_CLASS_OPTIONS: [presentation]
+#+LATEX_COMPILER: xelatex
+#+BEAMER_THEME: Luebeck
+#+EXCLUDE_TAGS: noexport
+#+PROPERTY:  header-args :eval no
+* Introduction
+** Hello :)
+- My name is [[https://abrahamraji.in][Abraham Raji]]
+- I'm known online as [[mailto:avronr@tuta.io][avronr]].
+- Software pays my bills.
+- Web. Cloud. Servers.
+- I am a man with a certain level of appreciation for old things.
+*** Ground Rules
+- Feel free to interupt me.
+  They call it seeking knowledge for a reason.
+- No doubts are stupid. People who think otherwise are stupid.
+- Regardless of whether you agree with me or disagree with me it is important
+  you understand me.
+* What is FOSS?
+** The Four Freedoms
+ Free and Open Source Software is any piece of software that respects their
+ user's four freedoms:
+ + The freedom to run the program as you wish, for any purpose (freedom 0).
+ + The freedom to study how the program works, and change it so it does your
+   computing as you wish (freedom 1).
+** The Four Freedoms
+ + Access to the source code is a precondition for this. The freedom to
+   redistribute copies so you can help others
+
+   (freedom 2).
+ + The freedom to distribute copies of your modified versions to others
+   (freedom 3). By doing this you can give the whole community a chance to
+   benefit from your changes. Access to the source code is a precondition for
+   this.
+** Open Source vs Free Software
+*** What is free? What is open source?
+:PROPERTIES:
+:BEAMER_col: 0.6
+:END:
+- Free Software is about user's freedom.
+- Open Source is a way of making software.
+- Protective vs Non-Protective Licenses.
+*** Copyleft :B_column:
+:PROPERTIES:
+:BEAMER_col: 0.4
+:END:
+[[file://home/avronr/Code/presentations/why-contribute-to-foss/copyleft.png]]
+* Why contribute to FOSS?
+** Why should I consider contributing to free software?
+ + Made with **\hearts**.
+ + The world runs on free software.
+ + Amazing developer community.
+ + Digital Privacy is possible only through free software.
+ + By being part of a free software project you get to be part of a movement
+   bigger than yourself the consequences if which extends to millions of users.
+
+** Why should I consider contributing to free software?
+    Minor Perks:
+    - Build your experience and skills working for real life projects.
+    - Contributions are public hence verifiable.
+    - Fame and Recognition.
+* How to find projects to contribute to?
+** How to find projects to contribute to free software?
+1. Become a user.
+2. Find something you like.
+3. Join the community.
+4. Go through the issues page.
+5. Start small and always ask doubts.
+6. Slowly familiarize yourself with the technology used.
+7. Become part of the Team!
+* Thanks for listening!
+** Thanks for listening! Now for some questions.
+- Get in touch with me:
+  + Mail: avronr@tuta.io
+  + Social media listed on: abrahamraji.in
