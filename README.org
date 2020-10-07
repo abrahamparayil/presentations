@@ -8,7 +8,7 @@ I prefer to use PDFs for presentations because no other format really compares
 to the portability of a PDF and I don't use a lot of transitions or effects and
 a normal PDF more or less always takes care of my needs.
 
-**Copyright Notice :**
+*Copyright Notice :*
 
 All original content is licensed under a free/libre copyleft license
 (GPL or CC BY-SA).
