@@ -33,7 +33,7 @@
 :BEAMER_env: example
 :END:
 #+ATTR_LATEX: width=\textwidth
-[[file://home/avronr/Code/presentations/what-the-foss/dodge.jpg]]
+[[file:./dodge.jpg]]
 ** But does FOSS make sense?
 *** Under the Hood
 :PROPERTIES:
@@ -41,7 +41,7 @@
 :BEAMER_env: example
 :END:
 #+ATTR_LATEX: width=\textwidth
-[[file://home/avronr/Code/presentations/what-the-foss/dodge-inside.jpg]]
+[[file:./dodge-inside.jpg]]
 ** But does FOSS make sense?
 *** Control
    #+begin_quote
@@ -64,7 +64,7 @@ If the users don't control the program, the program controls the users. With pro
 :PROPERTIES:
 :BEAMER_col: 0.4
 :END:
-[[file://home/avronr/Code/presentations/what-the-foss/stallman.jpg]]
+[[file:./stallman.jpg]]
 Richard Mathew Stallman
 ** Definition
 Free and Open source software is any piece of software that gives it's users the four essential freedoms.
@@ -88,10 +88,10 @@ Free and Open source software is any piece of software that gives it's users the
 :PROPERTIES:
 :BEAMER_col: 0.4
 :END:
-[[file://home/avronr/Code/presentations/what-the-foss/esr.jpg]]
+[[file:./esr.jpg]]
 Eric S Raymond
 ** Open Source vs Free Software
-[[file://home/avronr/Code/presentations/what-the-foss/ep000.jpg]]
+[[file:./ep000.jpg]]
 
 * Free Software in Real Life
 ** Can a Company make money out of Free Software?
@@ -100,7 +100,7 @@ Eric S Raymond
 - Most of the revenue for software companies comes from Corporates
   - Corporates value reliability.
 
-[[file://home/avronr/Code/presentations/what-the-foss/comp.png]]
+[[file:./comp.png]]
 ** Can an individual make a living out of Free Software?
 - Short Answer: Yes.
 - You can work at the above mentioned companies.
