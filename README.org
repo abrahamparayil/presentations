@@ -12,4 +12,8 @@ a normal PDF more or less always takes care of my needs.
 *Copyright Notice :*
 
 All original content is licensed under a free/libre copyleft license
-(GPL or CC BY-SA).
+([[https://www.gnu.org/licenses/gpl-3.0.txt][GPL]] or [[http://creativecommons.org/licenses/by/4.0][CC]]).
+
+[[http://creativecommons.org/licenses/by/4.0/][https://i.creativecommons.org/l/by/4.0/88x31.png]]
+
+#+CAPTION: This work is licensed under a Creative Commons Attribution 4.0 International License.
