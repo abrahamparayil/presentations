@@ -53,7 +53,7 @@
 :PROPERTIES:
 :BEAMER_col: 0.4
 :END:
-[[file://home/avronr/Code/presentations/why-contribute-to-foss/copyleft.png]]
+[[file:./copyleft.png]]
 * Why contribute to FOSS?
 ** Why should I consider contributing to free software?
  + Made with **\hearts**.
