@@ -1,0 +1,64 @@
+#+TITLE: The Linux Circle Designer
+#+AUTHOR: Abraham Raji
+#+EMAIL: avronr@tuta.io
+#+DATE: January 23, 2020
+#+DESCRIPTION: State of FOSS Design
+#+BEAMER_HEADER: \subtitle{The story of how my love for free software turned me into a designer}}
+#+BEAMER_HEADER:\titlegraphic{\includegraphics[height=.1\textheight]{./logo.png}}
+#+KEYWORDS: foss design
+#+LANGUAGE:  en
+#+OPTIONS:   H:2 num:nil ^:{} toc:nil
+#+LaTeX_CLASS_OPTIONS: [presentation]
+#+BEAMER_THEME: Luebeck
+#+EXCLUDE_TAGS: noexport
+#+PROPERTY:  header-args :eval no
+
+* My Story
+** About the 2018 Me
+*** Text
+:PROPERTIES:
+:BEAMER_col: 0.5
+:END:
+- Abraham Raji a.k.a =avronr=
+- Loves Programming.
+- Free/Libre Software Enthusiast.
+- Ran a FOSS club at my college.
+*** Image
+:PROPERTIES:
+:BEAMER_col: 0.5
+:END:
+#+caption: A picture of me 2018
+#+ATTR_LATEX: :height 40mm
+file:././meold.png
+** I started designing.
+- College events by the FOSS club required posters.
+- Most Designers used the Adobe Suite.
+- I didn't wanna let Stallman down
+- So I decided to give it a try myself.
+* Stuff I've done
+** Now I design
+*** Image
+:PROPERTIES:
+:BEAMER_col: 0.25
+:END:
+#+caption: Onam, SDS (2020)
+file:././onam4.png
+*** Image
+:PROPERTIES:
+:BEAMER_col: 0.25
+:END:
+#+caption: Announcement, DebConf (2020)
+file:././theyyam.png
+*** Image
+:PROPERTIES:
+:BEAMER_col: 0.25
+:END:
+#+caption: CodeIn, Pehia Summit (2021)
+file:././codein.png
+*** Image
+:PROPERTIES:
+:BEAMER_col: 0.25
+:END:
+#+caption: CPF, MiniDebConf India (2021)
+file:././cpfdraft.png
+* FOSS Design Tools
