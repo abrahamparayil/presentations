@@ -1,7 +1,7 @@
 #+TITLE: Presentations
 
-There are various presentations that were auhored by me on various 
-ocassions and their source files. I use Emacs org-mode and
+There are various presentations that were authored by me on various
+occasions and their source files. I use Emacs org-mode and
 Beamer primarily to generate slides as PDFs. Sometimes I also use Libre Office
 Impress.
 
