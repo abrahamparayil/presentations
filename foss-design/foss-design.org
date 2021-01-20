@@ -31,10 +31,15 @@
 #+ATTR_LATEX: :height 40mm
 file:././meold.png
 ** I started designing.
-- College events by the FOSS club required posters.
-- Most Designers used the Adobe Suite.
-- I didn't wanna let Stallman down
-- So I decided to give it a try myself.
+*** Text
+:PROPERTIES:
+:BEAMER_col: 0.7
+:END:
+ - College events by the FOSS club required posters.
+ - Most Designers used the Adobe Suite.
+ - I didn't wanna let Stallman down
+ - Finding Raghavendra Kamath.
+ - So I decided to give it a try myself.
 * Stuff I've done
 ** Now I design
 *** Image
@@ -62,3 +67,69 @@ file:././codein.png
 #+caption: CPF, MiniDebConf India (2021)
 file:././cpfdraft.png
 * FOSS Design Tools
+** Inkscape
+*** Text
+:PROPERTIES:
+:BEAMER_col: 0.5
+:END:
+- Vector Graphics tool
+- Uses SVG as base format
+- Flexible
+- Advanced features (Object Transformations, Bitmap tracing and more!)
+*** Image
+:PROPERTIES:
+:BEAMER_col: 0.5
+:END:
+#+caption: Designed Using Inkscape
+file:././inkscape.png
+** Gimp
+*** Text
+:PROPERTIES:
+:BEAMER_COL: 0.5
+:END:
+- *G* NU  *I* mage  *M* anipulation  *P* rogram
+- 25 years and still going strong.
+- photo retouching program, an online batch processing system, a mass production image renderer, an image format converter and more.
+*** Image
+:PROPERTIES:
+:BEAMER_col: 0.5
+:END:
+#+caption: Gimp in Action
+file:././gimp.png
+** Krita
+*** Text
+:PROPERTIES:
+:BEAMER_COL: 0.4
+:END:
+- Professional FREE and open source painting program.
+- Made by artists that want to see affordable art tools for everyone.
+- Beautiful Brushes, Animation, HDR, Scripting and more!
+*** Image
+:PROPERTIES:
+:BEAMER_COL: 0.6
+:END:
+#+caption: Krita in Action
+file:./krita.png
+** Pencil
+*** Text
+:PROPERTIES:
+:BEAMER_COL: 0.4
+:END:
+- The best UI/UX Open Source tool out there.
+- Slow Development.
+- Prototyping, GUI mockup, export to web page etc.
+*** Image
+:PROPERTIES:
+:BEAMER_COL: 0.6
+:END:
+#+caption: Pencil in Action
+file:./pencil.png
+* Thanks
+** Thanks for Listening
+*** Text
+:PROPERTIES:
+:BEAMER_COL: 0.6
+:END:
+- If I can do it so can you.
+- Popularize and normalize FOSS tools for Art.
+- Tools made with **<3** Rock!
