@@ -29,7 +29,7 @@
 :END:
 #+caption: A picture of me 2018
 #+ATTR_LATEX: :height 40mm
-[[file:././meold.png]]
+[[file:./meold.png]]
 ** I started designing.
 *** Text
 :PROPERTIES:
@@ -47,25 +47,25 @@
 :BEAMER_col: 0.25
 :END:
 #+caption: Onam, SDS (2020)
-[[file:././onam4.png]]
+[[file:./onam4.png]]
 *** Image
 :PROPERTIES:
 :BEAMER_col: 0.25
 :END:
 #+caption: Announcement, DebConf (2020)
-[[file:././theyyam.png]]
+[[file:./theyyam.png]]
 *** Image
 :PROPERTIES:
 :BEAMER_col: 0.25
 :END:
 #+caption: CodeIn, Pehia Summit (2021)
-[[file:././codein.png]]
+[[file:./codein.png]]
 *** Image
 :PROPERTIES:
 :BEAMER_col: 0.25
 :END:
 #+caption: CPF, MiniDebConf India (2021)
-[[file:././cpfdraft.png]]
+[[file:./cpfdraft.png]]
 * FOSS Design Tools
 ** Inkscape
 *** Text
@@ -81,7 +81,7 @@
 :BEAMER_col: 0.5
 :END:
 #+caption: Designed Using Inkscape
-[[file:././inkscape.png]]
+[[file:./inkscape.png]]
 ** Gimp
 *** Text
 :PROPERTIES:
@@ -95,7 +95,7 @@
 :BEAMER_col: 0.5
 :END:
 #+caption: Gimp in Action
-[[file:././gimp.png]]
+[[file:./gimp.png]]
 ** Krita
 *** Text
 :PROPERTIES:
