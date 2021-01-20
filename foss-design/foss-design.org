@@ -4,7 +4,7 @@
 #+DATE: January 23, 2020
 #+DESCRIPTION: State of FOSS Design
 #+BEAMER_HEADER: \subtitle{The story of how my love for free software turned me into a designer}}
-#+BEAMER_HEADER:\titlegraphic{\includegraphics[height=.1\textheight]{./logo.png}}
+#+BEAMER_HEADER:\titlegraphic{\includegraphics[height=.1\textheight]{./images/logo.png}}
 #+KEYWORDS: foss design
 #+LANGUAGE:  en
 #+OPTIONS:   H:2 num:nil ^:{} toc:nil
@@ -29,7 +29,7 @@
 :END:
 #+caption: A picture of me 2018
 #+ATTR_LATEX: :height 40mm
-[[file:./meold.png]]
+[[file:./images/meold.png]]
 ** I started designing.
 *** Text
 :PROPERTIES:
@@ -47,25 +47,25 @@
 :BEAMER_col: 0.25
 :END:
 #+caption: Onam, SDS (2020)
-[[file:./onam4.png]]
+[[file:./images/onam4.png]]
 *** Image
 :PROPERTIES:
 :BEAMER_col: 0.25
 :END:
 #+caption: Announcement, DebConf (2020)
-[[file:./theyyam.png]]
+[[file:./images/theyyam.png]]
 *** Image
 :PROPERTIES:
 :BEAMER_col: 0.25
 :END:
 #+caption: CodeIn, Pehia Summit (2021)
-[[file:./codein.png]]
+[[file:./images/codein.png]]
 *** Image
 :PROPERTIES:
 :BEAMER_col: 0.25
 :END:
 #+caption: CPF, MiniDebConf India (2021)
-[[file:./cpfdraft.png]]
+[[file:./images/cpfdraft.png]]
 * FOSS Design Tools
 ** Inkscape
 *** Text
@@ -81,7 +81,7 @@
 :BEAMER_col: 0.5
 :END:
 #+caption: Designed Using Inkscape
-[[file:./inkscape.png]]
+[[file:./images/inkscape.png]]
 ** Gimp
 *** Text
 :PROPERTIES:
@@ -95,7 +95,7 @@
 :BEAMER_col: 0.5
 :END:
 #+caption: Gimp in Action
-[[file:./gimp.png]]
+[[file:./images/gimp.png]]
 ** Krita
 *** Text
 :PROPERTIES:
@@ -109,7 +109,7 @@
 :BEAMER_COL: 0.6
 :END:
 #+caption: Krita in Action
-[[file:./krita.png]]
+[[file:./images/krita.png]]
 ** Pencil
 *** Text
 :PROPERTIES:
@@ -123,7 +123,7 @@
 :BEAMER_COL: 0.6
 :END:
 #+caption: Pencil in Action
-[[file:./pencil.png]]
+[[file:./images/pencil.png]]
 * Thanks
 ** Thanks for Listening
 *** Text
